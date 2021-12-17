@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "--e CSV --t XML --filename people.csv"
+    }
+  }
+}
